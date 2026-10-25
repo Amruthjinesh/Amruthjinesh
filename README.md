@@ -84,6 +84,13 @@ A small Python web app packaged in Docker and used to practise automated build a
 *“Better than yesterday.”*
 
 </div>
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amruthjinesh/Amruthjinesh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
