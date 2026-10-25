@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Amruth's GitHub Banner">
+</p>
+
+
 <div align="center">
 
 # Hi there, I'm Amruth! 👋
