@@ -2,7 +2,7 @@
 
 # Hi there, I'm Amruth! 👋
 
-### Aspiring Cloud & DevOps Engineer ☁️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+%26+DevOps+Engineer;Learning+AWS+%7C+Docker+%7C+Jenkins;Building+CI%2FCD+Pipelines;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
 
 Learning, building, automating, and improving one project at a time.
 
